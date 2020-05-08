@@ -1,0 +1,64 @@
+
+.image{
+    text-align: center;
+
+}
+.imag{
+   
+}
+.assign{
+    background-color: gainsboro;
+    width: 50%;
+    height: 150px;
+    margin: 0 auto;
+}
+.web{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:royalblue;
+    padding-bottom: 18px;
+    position: relative;
+    bottom: 20px;
+    font-weight: bold;
+}
+.roll{
+    background-color:seagreen;
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 22px;
+}
+.rol{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.projects{
+    width: 100%;
+    height: 300px;
+    margin-top: 70px;
+}
+.a1{
+    width: 20%;
+    height: 200px;
+    background-color: turquoise;
+    text-align: center;
+    display: inline-block;
+    margin-left: 50px;
+}
+.a{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    color: navy;
+}
+#link{
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+}

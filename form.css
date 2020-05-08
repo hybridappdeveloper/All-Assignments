@@ -1,0 +1,64 @@
+form{
+    background-color:blueviolet; width: 8.3in; 
+}
+label{
+    float: left;
+    width: 135px;
+    text-align: left;
+    padding-right: 40px;
+    margin-top: 12px;
+    clear: left;
+    margin-left: 8px;
+}
+input{
+    margin-top: 12px;
+}        
+#saylanilogo{
+    text-align: center; width: 8.3in; height: 1in; border: 10in; background-color: white;
+    padding-top: 1in; padding-bottom: 40px;
+}
+#reg{
+    text-align: center; font-size: 13pt; text-decoration:underline;text-transform:uppercase;
+    color:blueviolet;
+}
+fieldset{
+    color:ivory; width: 8.3in; margin-left: 2.5in; border-left-width: 20px; 
+    background-color: whitesmoke;border-right-width: 10px; 
+    border-style: hidden; 
+}   
+#textarea{
+margin-top: 14px;
+}
+.submit{
+    text-indent: 130pt;
+}
+#thankyou{
+    text-align: center; width: 10in; height: 3in;
+    padding-top: 1in; padding-bottom: 40px; margin-left: 2in;
+}    
+#thank{
+    color: green;
+}
+#submitted{
+    color: darkblue;font-size: 19pt; 
+}
+#go{
+    color: darkblue; font-size: 26pt;
+}
+#tab{
+    margin-top: 14px;
+    width: 8.3in;  
+    padding-left: 2px;    
+}
+#footer{
+    height: 1in; width: 8.3in; background-color:white;
+}
+#tr1{
+    text-align: center;    
+}
+#char{
+    text-align: center;
+}
+#deci{
+    text-align: center;
+}
