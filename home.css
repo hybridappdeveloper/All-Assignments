@@ -541,11 +541,6 @@
 }
 
 
-
-
-
-
-
 @media only screen and (max-width:320px) {
   .main {
       width: 100%;
@@ -615,7 +610,385 @@
     margin-left: 0px;
   } 
   
+  .slidea{
+  width: 100%;
+  }
+  .slideb{
+  width: 100%;
+  }
+  .slide{
+  width: 100%;
+  }
+
+  .newsbara{
+    width: 100%;
+  }
+
+  .newsbarab{
+    width: 100%;
+  }
+  
+  .newsbar{
+    background-color: blue;
+    position: relative;
+    left: 0px;
+    top: 10px;
+    margin-right: 0px;
+    color: white;
+    width: 100%;
+  }
+  
+  .small{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  .smal{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  
+  .para{
+    color:def;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: justify;
+  }
+
+  .facts{
+    background-color: rgb(78, 78, 250);
+    /* height: 290px; */
+    width: 100%;
+    height: fit-content;
+  }
+  .factsa{
+    width: 100%;
+  }
+
+  .factsb{
+    width: 100%;
+  }
+
+  .factsc{
+    width: 100%;
+  }
+  .fact{
+    width: 50px;
+    margin-top: 100px;
+    /* margin-left: 245px; */
+    /* position: relative;
+    bottom: 50px; */
+    margin-left: 130px;
+  
+  }
+  
+  .num{
+    /* display: inline; */
+    color: white;
+    /* margin-left: 180px; */
+    font-variant-numeric: oldstyle-nums;
+    font-size: 40px;
+    font-weight: bold;
+    /* position: relative;
+    bottom: 380px; */
+    margin-left: 90px;
+  }
+  .numa{
+    position: relative;
+    bottom: 510px;
+  }
+  .numb{
+    position: relative;
+    bottom: 430px;
+  }
+  .numc{
+    position: relative;
+    bottom: 330px;
+  }
+  .numd{
+    position: relative;
+    bottom: 240px; */
+  }
+  .factcap{
+    /* display: inline; */
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    /* margin-left: 72px; */
+    margin-left: 0px;
+    /* position: relative;
+    bottom: 60px; */
+  }
+  .capa{
+    position: relative;
+    bottom: 690px;
+    margin-left: 10px;
+  }
+  .capb{
+    position: relative;
+    bottom: 580px;
+    margin-left: 20px;
+  
+  }
+  .capc{
+    position: relative;
+    bottom: 440px;
+    margin-left: 50px;
+  
+  }
+  .capd{
+    position: relative;
+    bottom: 325px;
+    margin-left: 50px;
+  
+  }
+
+  .doing{
+    background-color: whitesmoke;
+    /* height: 650px; */
+    width: 100%;
+    height: fit-content;
+  
+  }
+  .sadqa{
+    background-color: white;
+    /* width: 350px;  */
+    height: 180px; 
+    /* margin-left: 115px; */
+    margin-top: 30px;
+    /* display: inline-block; */
+    box-shadow: 0px 10px 25px 7px gainsboro; 
+    margin-left: 0px;
+    width: 100%;
+  }
+  .stickyimg{
+    width: 70px;
+    margin-top: 30px;
+    margin-left: 140px;
+  }
+  .sticky{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  .wel{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+    margin-left: 0px;
+    width: 100%;
+    margin-top: 30px;
+  }
+  .med{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+    margin-left: 0px;
+    width: 100%;
+    margin-top: 30px;
+  }
+  .dastar{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 115px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+    margin-left: 0px;
+    width: 100%;
+  }
+  .ro{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+    margin-left: 0px;
+    width: 100%;
+  }
+  .edu{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    /* margin-left: 30px; */
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+    margin-left: 0px;
+    width: 100%;
+  }
+  
+  .project{
+    width: 100%;
+    /* height: 110px; */
+    height: fit-content;
+    background-color: white;
+  }
+  
+  .miss{
+    /* width: 65%; */
+    width: 100%;
+    display: inline-block;
+  }
+  .mission{
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    /* margin-left: 110px; */
+    margin-top: 50px;
+    margin-left: 5px;
+    
+  }
+  .line{
+    position: relative;
+    bottom: 45px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    /* margin-left: 110px; */
+    margin-left: 5px;
+  }
+
+  .belowpro{
+    width:100%;
+    margin-top: 0px;
+    /* height: 380px; */
+    height: 100%;
+  }
+  
+  .below{
+    /* width: 65%; */
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    bottom: 230px;
+  }
+  
+  .proone{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block; 
+    /* margin-left: 110px; */
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .protwo{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    /* margin-left: 30px;  */
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .prothree{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-top: 20px; 
+    /* margin-left: 110px; */
+    margin-left: 0px;
+  }
+  .profour{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    /* margin-left: 30px; */
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+  
+  .pronote{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: bold;
+  }  
+  .proicon{
+    margin: 20px;
+  }
+  .pro{
+    /* width: 25%; */
+    display: inline-block;
+    width: 100%;
+    background-color: white;
+    
+  }
+
+
+  .event{
+    /* width: 34%; */
+    /* display: inline-block; */
+    width: 100%;
+    position: relative;
+    top: 260px;
+    background-color: white;
+  }
+  
+  
+  .missi{
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-top: 50px;
+    width: 100%;
+  }
+  .update{
+    background-color: white;
+  }
+  
+  
+  .lin{
+    position: relative;
+    bottom: 45px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 0px;
+  }
+  .upline{
+    color: lightgray;
+  }
+  
+  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -691,6 +1064,374 @@
     display: inline-block; 
     margin-left: 0px;
   } 
+
+  .slidea{
+    width: 100%;
+    }
+    .slideb{
+    width: 100%;
+    }
+    .slide{
+    width: 100%;
+    }
+  
+    .newsbara{
+      width: 100%;
+    }
+  
+    .newsbarab{
+      width: 100%;
+    }
+    
+    .newsbar{
+      background-color: blue;
+      position: relative;
+      left: 0px;
+      top: 10px;
+      margin-right: 0px;
+      color: white;
+      width: 100%;
+    }
+    
+    .small{
+      padding-left: 10px;
+      padding-right: 10px;
+      width: 60px; 
+    }   
+    .smal{
+      color: darkgreen;
+      font-weight: bolder;
+      text-align: center;
+      font-size: 26px;
+    }
+    
+    .para{
+      color:def;
+      margin-left: 15px;
+      margin-right: 15px;
+      text-align: justify;
+    }
+  
+    .facts{
+      background-color: rgb(78, 78, 250);
+      /* height: 290px; */
+      width: 100%;
+      height: fit-content;
+    }
+    .factsa{
+      width: 100%;
+    }
+  
+    .factsb{
+      width: 100%;
+    }
+  
+    .factsc{
+      width: 100%;
+    }
+    .fact{
+      width: 50px;
+      margin-top: 100px;
+      /* margin-left: 245px; */
+      /* position: relative;
+      bottom: 50px; */
+      margin-left: 130px;
+    
+    }
+    
+    .num{
+      /* display: inline; */
+      color: white;
+      /* margin-left: 180px; */
+      font-variant-numeric: oldstyle-nums;
+      font-size: 40px;
+      font-weight: bold;
+      /* position: relative;
+      bottom: 380px; */
+      margin-left: 90px;
+    }
+    .numa{
+      position: relative;
+      bottom: 510px;
+    }
+    .numb{
+      position: relative;
+      bottom: 430px;
+    }
+    .numc{
+      position: relative;
+      bottom: 330px;
+    }
+    .numd{
+      position: relative;
+      bottom: 240px; */
+    }
+    .factcap{
+      /* display: inline; */
+      color: white;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      font-size: 18px;
+      /* margin-left: 72px; */
+      margin-left: 0px;
+      /* position: relative;
+      bottom: 60px; */
+    }
+    .capa{
+      position: relative;
+      bottom: 690px;
+      margin-left: 10px;
+    }
+    .capb{
+      position: relative;
+      bottom: 580px;
+      margin-left: 20px;
+    
+    }
+    .capc{
+      position: relative;
+      bottom: 440px;
+      margin-left: 50px;
+    
+    }
+    .capd{
+      position: relative;
+      bottom: 325px;
+      margin-left: 50px;
+    
+    }
+  
+    .doing{
+      background-color: whitesmoke;
+      /* height: 650px; */
+      width: 100%;
+      height: fit-content;
+    
+    }
+    .sadqa{
+      background-color: white;
+      /* width: 350px;  */
+      height: 180px; 
+      /* margin-left: 115px; */
+      margin-top: 30px;
+      /* display: inline-block; */
+      box-shadow: 0px 10px 25px 7px gainsboro; 
+      margin-left: 0px;
+      width: 100%;
+    }
+    .stickyimg{
+      width: 70px;
+      margin-top: 30px;
+      margin-left: 140px;
+    }
+    .sticky{
+      color: blue;
+      text-align: center;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    .wel{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .med{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .dastar{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 115px;
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    .ro{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    .edu{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      /* margin-left: 30px; */
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    
+    .project{
+      width: 100%;
+      /* height: 110px; */
+      height: fit-content;
+      background-color: white;
+    }
+    
+    .miss{
+      /* width: 65%; */
+      width: 100%;
+      display: inline-block;
+    }
+    .mission{
+      color: blue;
+      font-weight: bolder;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      /* margin-left: 110px; */
+      margin-top: 50px;
+      margin-left: 5px;
+      
+    }
+    .line{
+      position: relative;
+      bottom: 45px;
+      font-weight: bolder;
+      font-size: 30px;
+      color: darkgreen;
+      /* margin-left: 110px; */
+      margin-left: 5px;
+    }
+  
+    .belowpro{
+      width:100%;
+      margin-top: 0px;
+      /* height: 380px; */
+      height: 100%;
+    }
+    
+    .below{
+      /* width: 65%; */
+      width: 100%;
+      display: inline-block;
+      position: relative;
+      bottom: 230px;
+    }
+    
+    .proone{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block; 
+      /* margin-left: 110px; */
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+    .protwo{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      /* margin-left: 30px;  */
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+    .prothree{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      margin-top: 20px; 
+      /* margin-left: 110px; */
+      margin-left: 0px;
+    }
+    .profour{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      /* margin-left: 30px; */
+      margin-top: 20px;
+      margin-left: 0px;
+    }
+    
+    .pronote{
+      display: inline-block;
+      margin-left: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      color: blue;
+      font-weight: bold;
+    }  
+    .proicon{
+      margin: 20px;
+    }
+    .pro{
+      /* width: 25%; */
+      display: inline-block;
+      width: 100%;
+      background-color: white;
+      
+    }
+  
+  
+    .event{
+      /* width: 34%; */
+      /* display: inline-block; */
+      width: 100%;
+      position: relative;
+      top: 260px;
+      background-color: white;
+    }
+    
+    
+    .missi{
+      color: blue;
+      font-weight: bolder;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      margin-top: 50px;
+      width: 100%;
+    }
+    .update{
+      background-color: white;
+    }
+    
+    
+    .lin{
+      position: relative;
+      bottom: 45px;
+      font-weight: bolder;
+      font-size: 30px;
+      color: darkgreen;
+      margin-left: 0px;
+    }
+    .upline{
+      color: lightgray;
+    }
+
+
+
+
+
+
+
 }
 
 
@@ -763,6 +1504,371 @@
     display: inline-block; 
     margin-left: 0px;
   } 
+
+  .slidea{
+    width: 100%;
+    }
+    .slideb{
+    width: 100%;
+    }
+    .slide{
+    width: 100%;
+    }
+  
+    .newsbara{
+      width: 100%;
+    }
+  
+    .newsbarab{
+      width: 100%;
+    }
+    
+    .newsbar{
+      background-color: blue;
+      position: relative;
+      left: 0px;
+      top: 10px;
+      margin-right: 0px;
+      color: white;
+      width: 100%;
+    }
+    
+    .small{
+      padding-left: 10px;
+      padding-right: 10px;
+      width: 60px; 
+    }   
+    .smal{
+      color: darkgreen;
+      font-weight: bolder;
+      text-align: center;
+      font-size: 26px;
+    }
+    
+    .para{
+      color:def;
+      margin-left: 15px;
+      margin-right: 15px;
+      text-align: justify;
+    }
+  
+    .facts{
+      background-color: rgb(78, 78, 250);
+      /* height: 290px; */
+      width: 100%;
+      height: fit-content;
+    }
+    .factsa{
+      width: 100%;
+    }
+  
+    .factsb{
+      width: 100%;
+    }
+  
+    .factsc{
+      width: 100%;
+    }
+    .fact{
+      width: 50px;
+      margin-top: 100px;
+      /* margin-left: 245px; */
+      /* position: relative;
+      bottom: 50px; */
+      margin-left: 130px;
+    
+    }
+    
+    .num{
+      /* display: inline; */
+      color: white;
+      /* margin-left: 180px; */
+      font-variant-numeric: oldstyle-nums;
+      font-size: 40px;
+      font-weight: bold;
+      /* position: relative;
+      bottom: 380px; */
+      margin-left: 90px;
+    }
+    .numa{
+      position: relative;
+      bottom: 510px;
+    }
+    .numb{
+      position: relative;
+      bottom: 430px;
+    }
+    .numc{
+      position: relative;
+      bottom: 330px;
+    }
+    .numd{
+      position: relative;
+      bottom: 240px; */
+    }
+    .factcap{
+      /* display: inline; */
+      color: white;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      font-size: 18px;
+      /* margin-left: 72px; */
+      margin-left: 0px;
+      /* position: relative;
+      bottom: 60px; */
+    }
+    .capa{
+      position: relative;
+      bottom: 690px;
+      margin-left: 10px;
+    }
+    .capb{
+      position: relative;
+      bottom: 580px;
+      margin-left: 20px;
+    
+    }
+    .capc{
+      position: relative;
+      bottom: 440px;
+      margin-left: 50px;
+    
+    }
+    .capd{
+      position: relative;
+      bottom: 325px;
+      margin-left: 50px;
+    
+    }
+  
+    .doing{
+      background-color: whitesmoke;
+      /* height: 650px; */
+      width: 100%;
+      height: fit-content;
+    
+    }
+    .sadqa{
+      background-color: white;
+      /* width: 350px;  */
+      height: 180px; 
+      /* margin-left: 115px; */
+      margin-top: 30px;
+      /* display: inline-block; */
+      box-shadow: 0px 10px 25px 7px gainsboro; 
+      margin-left: 0px;
+      width: 100%;
+    }
+    .stickyimg{
+      width: 70px;
+      margin-top: 30px;
+      margin-left: 140px;
+    }
+    .sticky{
+      color: blue;
+      text-align: center;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    .wel{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .med{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .dastar{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 115px;
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    .ro{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    .edu{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      /* margin-left: 30px; */
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    
+    .project{
+      width: 100%;
+      /* height: 110px; */
+      height: fit-content;
+      background-color: white;
+    }
+    
+    .miss{
+      /* width: 65%; */
+      width: 100%;
+      display: inline-block;
+    }
+    .mission{
+      color: blue;
+      font-weight: bolder;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      /* margin-left: 110px; */
+      margin-top: 50px;
+      margin-left: 5px;
+      
+    }
+    .line{
+      position: relative;
+      bottom: 45px;
+      font-weight: bolder;
+      font-size: 30px;
+      color: darkgreen;
+      /* margin-left: 110px; */
+      margin-left: 5px;
+    }
+  
+    .belowpro{
+      width:100%;
+      margin-top: 0px;
+      /* height: 380px; */
+      height: 100%;
+    }
+    
+    .below{
+      /* width: 65%; */
+      width: 100%;
+      display: inline-block;
+      position: relative;
+      bottom: 230px;
+    }
+    
+    .proone{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block; 
+      /* margin-left: 110px; */
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+    .protwo{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      /* margin-left: 30px;  */
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+    .prothree{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      margin-top: 20px; 
+      /* margin-left: 110px; */
+      margin-left: 0px;
+    }
+    .profour{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      /* margin-left: 30px; */
+      margin-top: 20px;
+      margin-left: 0px;
+    }
+    
+    .pronote{
+      display: inline-block;
+      margin-left: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      color: blue;
+      font-weight: bold;
+    }  
+    .proicon{
+      margin: 20px;
+    }
+    .pro{
+      /* width: 25%; */
+      display: inline-block;
+      width: 100%;
+      background-color: white;
+      
+    }
+  
+  
+    .event{
+      /* width: 34%; */
+      /* display: inline-block; */
+      width: 100%;
+      position: relative;
+      top: 260px;
+      background-color: white;
+    }
+    
+    
+    .missi{
+      color: blue;
+      font-weight: bolder;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      margin-top: 50px;
+      width: 100%;
+    }
+    .update{
+      background-color: white;
+    }
+    
+    
+    .lin{
+      position: relative;
+      bottom: 45px;
+      font-weight: bolder;
+      font-size: 30px;
+      color: darkgreen;
+      margin-left: 0px;
+    }
+    .upline{
+      color: lightgray;
+    }
+
+
+
+
 }
 
 @media only screen and (max-width: 768px) {
@@ -835,7 +1941,371 @@
     margin-left: 0px;
   } 
 
+  .slidea{
+    width: 100%;
+    }
+    .slideb{
+    width: 100%;
+    }
+    .slide{
+    width: 100%;
+    }
+  
+    .newsbara{
+      width: 100%;
+    }
+  
+    .newsbarab{
+      width: 100%;
+    }
+    
+    .newsbar{
+      background-color: blue;
+      position: relative;
+      left: 0px;
+      top: 10px;
+      margin-right: 0px;
+      color: white;
+      width: 100%;
+    }
+    
+    .small{
+      padding-left: 10px;
+      padding-right: 10px;
+      width: 60px; 
+    }   
+    .smal{
+      color: darkgreen;
+      font-weight: bolder;
+      text-align: center;
+      font-size: 26px;
+    }
+    
+    .para{
+      color:def;
+      margin-left: 15px;
+      margin-right: 15px;
+      text-align: justify;
+    }
+  
+    .facts{
+      background-color: rgb(78, 78, 250);
+      /* height: 290px; */
+      width: 100%;
+      height: fit-content;
+    }
+    .factsa{
+      width: 100%;
+    }
+  
+    .factsb{
+      width: 100%;
+    }
+  
+    .factsc{
+      width: 100%;
+    }
+    .fact{
+      width: 50px;
+      margin-top: 100px;
+      /* margin-left: 245px; */
+      /* position: relative;
+      bottom: 50px; */
+      margin-left: 130px;
+    
+    }
+    
+    .num{
+      /* display: inline; */
+      color: white;
+      /* margin-left: 180px; */
+      font-variant-numeric: oldstyle-nums;
+      font-size: 40px;
+      font-weight: bold;
+      /* position: relative;
+      bottom: 380px; */
+      margin-left: 90px;
+    }
+    .numa{
+      position: relative;
+      bottom: 510px;
+    }
+    .numb{
+      position: relative;
+      bottom: 430px;
+    }
+    .numc{
+      position: relative;
+      bottom: 330px;
+    }
+    .numd{
+      position: relative;
+      bottom: 240px; */
+    }
+    .factcap{
+      /* display: inline; */
+      color: white;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      font-size: 18px;
+      /* margin-left: 72px; */
+      margin-left: 0px;
+      /* position: relative;
+      bottom: 60px; */
+    }
+    .capa{
+      position: relative;
+      bottom: 690px;
+      margin-left: 10px;
+    }
+    .capb{
+      position: relative;
+      bottom: 580px;
+      margin-left: 20px;
+    
+    }
+    .capc{
+      position: relative;
+      bottom: 440px;
+      margin-left: 50px;
+    
+    }
+    .capd{
+      position: relative;
+      bottom: 325px;
+      margin-left: 50px;
+    
+    }
+  
+    .doing{
+      background-color: whitesmoke;
+      /* height: 650px; */
+      width: 100%;
+      height: fit-content;
+    
+    }
+    .sadqa{
+      background-color: white;
+      /* width: 350px;  */
+      height: 180px; 
+      /* margin-left: 115px; */
+      margin-top: 30px;
+      /* display: inline-block; */
+      box-shadow: 0px 10px 25px 7px gainsboro; 
+      margin-left: 0px;
+      width: 100%;
+    }
+    .stickyimg{
+      width: 70px;
+      margin-top: 30px;
+      margin-left: 140px;
+    }
+    .sticky{
+      color: blue;
+      text-align: center;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    .wel{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .med{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+      margin-top: 30px;
+    }
+    .dastar{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 115px;
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    .ro{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      margin-left: 30px;
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    .edu{
+      background-color: white;
+      width: 350px;
+      height: 180px;
+      /* margin-left: 30px; */
+      margin-top: 30px;
+      display: inline-block;
+      box-shadow: 0px 10px 25px 7px gainsboro;
+      margin-left: 0px;
+      width: 100%;
+    }
+    
+    .project{
+      width: 100%;
+      /* height: 110px; */
+      height: fit-content;
+      background-color: white;
+    }
+    
+    .miss{
+      /* width: 65%; */
+      width: 100%;
+      display: inline-block;
+    }
+    .mission{
+      color: blue;
+      font-weight: bolder;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      /* margin-left: 110px; */
+      margin-top: 50px;
+      margin-left: 5px;
+      
+    }
+    .line{
+      position: relative;
+      bottom: 45px;
+      font-weight: bolder;
+      font-size: 30px;
+      color: darkgreen;
+      /* margin-left: 110px; */
+      margin-left: 5px;
+    }
+  
+    .belowpro{
+      width:100%;
+      margin-top: 0px;
+      /* height: 380px; */
+      height: 100%;
+    }
+    
+    .below{
+      /* width: 65%; */
+      width: 100%;
+      display: inline-block;
+      position: relative;
+      bottom: 230px;
+    }
+    
+    .proone{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block; 
+      /* margin-left: 110px; */
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+    .protwo{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      /* margin-left: 30px;  */
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+    .prothree{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      margin-top: 20px; 
+      /* margin-left: 110px; */
+      margin-left: 0px;
+    }
+    .profour{
+      background-color: whitesmoke;
+      width: 350px;
+      height: 70px;
+      display: inline-block;  
+      /* margin-left: 30px; */
+      margin-top: 20px;
+      margin-left: 0px;
+    }
+    
+    .pronote{
+      display: inline-block;
+      margin-left: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      color: blue;
+      font-weight: bold;
+    }  
+    .proicon{
+      margin: 20px;
+    }
+    .pro{
+      /* width: 25%; */
+      display: inline-block;
+      width: 100%;
+      background-color: white;
+      
+    }
+  
+  
+    .event{
+      /* width: 34%; */
+      /* display: inline-block; */
+      width: 100%;
+      position: relative;
+      top: 260px;
+      background-color: white;
+    }
+    
+    
+    .missi{
+      color: blue;
+      font-weight: bolder;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 24px;
+      margin-top: 50px;
+      width: 100%;
+    }
+    .update{
+      background-color: white;
+    }
+    
+    
+    .lin{
+      position: relative;
+      bottom: 45px;
+      font-weight: bolder;
+      font-size: 30px;
+      color: darkgreen;
+      margin-left: 0px;
+    }
+    .upline{
+      color: lightgray;
+    }
+
+
 }
+
+
 
 @media only screen and (max-width: 1017px) {
   .main {
@@ -982,6 +2452,458 @@
     display: inline-block; 
     margin-left: 0px;
   } 
+
+  .newsbar{
+    background-color: blue;
+    position: relative;
+    left: 60px;
+    top: 10px;
+    margin-right: 120px;
+    color: white;
+  }
+  
+  .introduction{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    padding-bottom: 80px;
+  }
+  .intro{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px; 
+    
+  }
+  .duction{
+    color: darkgreen;
+  } 
+  .small{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  .smal{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  
+  .para{
+    text-align: justify;
+    color:def;
+    margin-left: 120px;
+    margin-right: 120px;
+  }
+  
+  .facts{
+    background-color: rgb(78, 78, 250);
+    height: 290px;
+  }
+  .fact{
+    width: 50px;
+    margin-top: 100px;
+    margin-left: 245px;
+    position: relative;
+    bottom: 50px;
+  }
+  
+  .num{
+    display: inline;
+    color: white;
+    margin-left: 180px;
+    font-variant-numeric: oldstyle-nums;
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    bottom: 60px;
+  }
+  
+  .factcap{
+    display: inline;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 72px;
+    position: relative;
+    bottom: 60px;
+  }
+  
+  .month{
+    color:greenyellow;
+  }
+  
+  .doing{
+    background-color: whitesmoke;
+    height: 650px;
+  }
+  
+  .wee{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px;    
+  }
+  
+  .doe{
+    color: darkgreen;
+  }  
+  .smali{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  .smalli{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  
+  
+  .sadqa{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 115px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;    
+  }
+  .stickyimg{
+    width: 70px;
+    margin-top: 30px;
+    margin-left: 140px;
+  }
+  .sticky{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  .wel{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .med{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .dastar{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 115px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .ro{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .edu{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  
+  .project{
+    width: 100%;
+    height: 110px;
+  }
+  
+  .miss{
+    width: 65%;
+    display: inline-block;
+  }
+  
+  .event{
+    width: 34%;
+    display: inline-block;
+  }
+  
+  .mission{
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-left: 110px;
+    margin-top: 50px;
+    
+  }
+  
+  .missi{
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-top: 50px;
+  }
+  
+  .line{
+    position: relative;
+    bottom: 45px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 110px;
+  }
+  
+  .lin{
+    position: relative;
+    bottom: 45px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 0px;
+  }
+  .upline{
+    color: lightgray;
+  }
+  
+  .belowpro{
+    width:100%;
+    margin-top: 0px;
+    height: 380px;
+  }
+  
+  .below{
+    width: 65%;
+    display: inline-block;
+  }
+  
+  .proone{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block; 
+    margin-left: 110px;
+  }
+  .protwo{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-left: 30px; 
+  }
+  .prothree{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-top: 20px; 
+    margin-left: 110px;
+  }
+  .profour{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-left: 30px;
+    margin-top: 20px; 
+  }
+  
+  .pronote{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: bold;
+  }  
+  .proicon{
+    margin: 20px;
+  }
+  .pro{
+    width: 25%;
+    display: inline-block;
+    
+  }
+  .gallery{
+    width: 100%;
+  }
+  .wey{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px;    
+  }
+  
+  .doy{
+    color: darkgreen;
+  }  
+  .smaly{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  .smally{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  
+  .images{
+    height: 300px;
+    width: 100%;
+  }
+  .rashan{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+    margin-left: 55px;
+  }
+  .rashan1{
+    width: 100%;
+  }
+  .food{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+  }
+  .food1{
+    width:100%
+  }
+  .hazrat{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+  }
+  .hazrat1{
+    width:100%
+  }
+  .rashans{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+    
+    
+  
+  }
+  .rashan2{
+    width: 100%;
+  }
+  .hazrats{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+    
+  }
+  .hazrat2{
+    width:100%
+  }
+  
+  .footer{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    color: white;
+  }
+  
+  .office{
+    width: 33%;
+    display: inline-block;
+  }
+  .useful{
+    width: 33%;
+    display: inline-block;
+  }
+  .use{
+    margin-bottom: 225px;
+    font-weight: bold;
+  }
+  .connect{
+    width: 33%;
+    display: inline-block;
+  }
+  .head{
+    margin-top: 100px;
+    margin-left: 40px;
+  }
+  .add{
+    margin-left: 60px;
+  }
+  .us{
+    margin-bottom: 225px;
+    font-weight: bold;
+  }
+  
+  .uselink{
+    position: relative;
+    bottom: 250px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 0px;
+  }
+  .useline{
+    color:lightgray;
+  }
+  .blue{
+    width: 60px;
+    position: relative;
+    bottom: 235px;
+  }
+  .fbico{
+    width: 51px;
+    position: relative;
+    bottom: 235px;
+  }
+  .inico{
+    width: 60px;
+    position: relative;
+    bottom: 253px;
+  }
+  
+  .copyright{
+    background-color:royalblue;
+    width: 100%;
+    height: 50px;
+  }
+  .copy{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+  }
+  
+  .hov:hover{
+    background-color: blue;
+    padding: 5px;
+    padding-right: 0px;
+  }
+  .list:hover{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 15px;
+    max-width: max-content;
+  }
+
+
+
 }
 
 @media only screen and (min-width: 1366px){
@@ -1084,7 +3006,454 @@
     margin-left: 0px;
   } 
 
-
+  .newsbar{
+    background-color: blue;
+    position: relative;
+    left: 60px;
+    top: 10px;
+    margin-right: 120px;
+    color: white;
+  }
+  
+  .introduction{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    padding-bottom: 80px;
+  }
+  .intro{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px; 
+    
+  }
+  .duction{
+    color: darkgreen;
+  } 
+  .small{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  .smal{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  
+  .para{
+    text-align: justify;
+    color:def;
+    margin-left: 120px;
+    margin-right: 120px;
+  }
+  
+  .facts{
+    background-color: rgb(78, 78, 250);
+    height: 290px;
+  }
+  .fact{
+    width: 50px;
+    margin-top: 100px;
+    margin-left: 245px;
+    position: relative;
+    bottom: 50px;
+  }
+  
+  .num{
+    display: inline;
+    color: white;
+    margin-left: 180px;
+    font-variant-numeric: oldstyle-nums;
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    bottom: 60px;
+  }
+  
+  .factcap{
+    display: inline;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 72px;
+    position: relative;
+    bottom: 60px;
+  }
+  
+  .month{
+    color:greenyellow;
+  }
+  
+  .doing{
+    background-color: whitesmoke;
+    height: 650px;
+  }
+  
+  .wee{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px;    
+  }
+  
+  .doe{
+    color: darkgreen;
+  }  
+  .smali{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  .smalli{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  
+  
+  .sadqa{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 115px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;    
+  }
+  .stickyimg{
+    width: 70px;
+    margin-top: 30px;
+    margin-left: 140px;
+  }
+  .sticky{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  .wel{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .med{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .dastar{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 115px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .ro{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  .edu{
+    background-color: white;
+    width: 350px;
+    height: 180px;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0px 10px 25px 7px gainsboro;
+  }
+  
+  .project{
+    width: 100%;
+    height: 110px;
+  }
+  
+  .miss{
+    width: 65%;
+    display: inline-block;
+  }
+  
+  .event{
+    width: 34%;
+    display: inline-block;
+  }
+  
+  .mission{
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-left: 110px;
+    margin-top: 50px;
+    
+  }
+  
+  .missi{
+    color: blue;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-top: 50px;
+  }
+  
+  .line{
+    position: relative;
+    bottom: 45px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 110px;
+  }
+  
+  .lin{
+    position: relative;
+    bottom: 45px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 0px;
+  }
+  .upline{
+    color: lightgray;
+  }
+  
+  .belowpro{
+    width:100%;
+    margin-top: 0px;
+    height: 380px;
+  }
+  
+  .below{
+    width: 65%;
+    display: inline-block;
+  }
+  
+  .proone{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block; 
+    margin-left: 110px;
+  }
+  .protwo{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-left: 30px; 
+  }
+  .prothree{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-top: 20px; 
+    margin-left: 110px;
+  }
+  .profour{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 70px;
+    display: inline-block;  
+    margin-left: 30px;
+    margin-top: 20px; 
+  }
+  
+  .pronote{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: bold;
+  }  
+  .proicon{
+    margin: 20px;
+  }
+  .pro{
+    width: 25%;
+    display: inline-block;
+    
+  }
+  .gallery{
+    width: 100%;
+  }
+  .wey{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px;    
+  }
+  
+  .doy{
+    color: darkgreen;
+  }  
+  .smaly{
+    color: darkgreen;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 26px;
+  }
+  .smally{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 60px; 
+  }   
+  
+  .images{
+    height: 300px;
+    width: 100%;
+  }
+  .rashan{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+    margin-left: 55px;
+  }
+  .rashan1{
+    width: 100%;
+  }
+  .food{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+  }
+  .food1{
+    width:100%
+  }
+  .hazrat{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+  }
+  .hazrat1{
+    width:100%
+  }
+  .rashans{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+    
+    
+  
+  }
+  .rashan2{
+    width: 100%;
+  }
+  .hazrats{
+    width: 18%;
+    height: 160px;
+    display: inline-block;
+    
+  }
+  .hazrat2{
+    width:100%
+  }
+  
+  .footer{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    color: white;
+  }
+  
+  .office{
+    width: 33%;
+    display: inline-block;
+  }
+  .useful{
+    width: 33%;
+    display: inline-block;
+  }
+  .use{
+    margin-bottom: 225px;
+    font-weight: bold;
+  }
+  .connect{
+    width: 33%;
+    display: inline-block;
+  }
+  .head{
+    margin-top: 100px;
+    margin-left: 40px;
+  }
+  .add{
+    margin-left: 60px;
+  }
+  .us{
+    margin-bottom: 225px;
+    font-weight: bold;
+  }
+  
+  .uselink{
+    position: relative;
+    bottom: 250px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkgreen;
+    margin-left: 0px;
+  }
+  .useline{
+    color:lightgray;
+  }
+  .blue{
+    width: 60px;
+    position: relative;
+    bottom: 235px;
+  }
+  .fbico{
+    width: 51px;
+    position: relative;
+    bottom: 235px;
+  }
+  .inico{
+    width: 60px;
+    position: relative;
+    bottom: 253px;
+  }
+  
+  .copyright{
+    background-color:royalblue;
+    width: 100%;
+    height: 50px;
+  }
+  .copy{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+  }
+  
+  .hov:hover{
+    background-color: blue;
+    padding: 5px;
+    padding-right: 0px;
+  }
+  .list:hover{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 15px;
+    max-width: max-content;
+  }
 
 
 
